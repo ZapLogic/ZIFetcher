@@ -1,8 +1,17 @@
-# <span style="color:#1E90FF;">ZIFetcher</span>
+# <span style="color:#1E90FF;">[ZIFetcher](https://ZapLogic.blogspot.com)</span>
 
-**ZIFetcher** is a Python-based tool designed to efficiently scrape and download files from web directories. It supports recursive downloading, multi-threaded file retrieval, and offers easy control for pausing, resuming, or quitting the download process.
+<span style="color:#1E90FF;"><a href="https://ZapLogic.blogspot.com">ZIFetcher</a></span> is a Python-based tool designed to efficiently scrape and download files from web directories. It supports recursive downloading, multi-threaded file retrieval, and offers easy control for pausing, resuming, or quitting the download process.
 
-![ZIFetcher Logo](https://via.placeholder.com/150)  <!-- Replace with your logo image URL -->
+![ZIFetcher Logo](https://github.com/ZapLogic/ZIFetcher/blob/main/ZIFetcher%201.PNG?raw=true)
+  <!-- Replace with your logo image URL -->
+**User Interface** 
+![ZIFetcher Logo](https://github.com/ZapLogic/ZIFetcher/blob/main/ZIFetcher%202.PNG?raw=true)
+
+**These type of files will be downloaded** 
+
+![ZIFetcher Logo](https://github.com/ZapLogic/ZIFetcher/blob/main/ZIFetcher.PNG?raw=true)
+
+**Hows it downlaod Files** 
 
 ---
 
@@ -13,7 +22,7 @@
 
 - **Recursive Downloading**  
   Download files from nested subdirectories by recursively exploring folder structures.
-
+  
 - **Pause, Resume, and Quit Controls**  
   Manage the download process using keyboard controls:  
   - `Ctrl + P` to Pause  
@@ -79,4 +88,23 @@ ZIFetcher can download a variety of file types, including but not limited to:
 ## <span style="color:#2E8B57;">Usage</span>
 
 1. **Just Download the file and run it:**
+
+## <span style="color:#1E90FF;">Support Us</span>
+
+We appreciate your support and encourage you to stay connected! You can support us by following our social media profiles and checking out our website.
+
+### Follow Us:
+- **Website**: [ZapLogic](https://zaplogic.blogspot.com)
+- **YouTube**: [ZapLogic Official YouTube](https://www.youtube.com/@ZapLogicOfficial)
+- **GitHub**: [ZapLogic on GitHub](https://www.github.com/ZapLogic)
+- **Facebook**: [Abdul Qadeer on Facebook](https://www.facebook.com/AbdulQadeer60814)
+- **TikTok**: [Abdul Qadeer on TikTok](https://www.tiktok.com/@AbdulQadeer60814)
+
+### How You Can Support:
+- ⭐ **Star our Repository**: Show your support by starring this repository.
+- 📢 **Share with Others**: Spread the word about ZIFetcher with your friends and community.
+- 💬 **Provide Feedback**: Help us improve by sharing your feedback and suggestions.
+
+Thank you for your continued support!
+
    
